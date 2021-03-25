@@ -23,7 +23,7 @@
 
 <div id = "descricao">
 
-## 📌 Descrição ##
+## 📌 &#xa0; Descrição ##
 
 Esse é um repositório para o teste de desenvolvedor do processo seletivo da [Petiko][petiko]. A resolução dos testes estão dentro da pasta **testes** e em suas respectivas pastas.
 
@@ -31,7 +31,7 @@ Esse é um repositório para o teste de desenvolvedor do processo seletivo da [P
 
 <div id = "tecnologias">
 
-## 🛠 Linguagens e ferramentas ##
+## 🛠 &#xa0; Linguagens e ferramentas ##
 
 Todas as linguagens e ferramentas usadas na realização dos testes:
 
@@ -48,7 +48,7 @@ Todas as linguagens e ferramentas usadas na realização dos testes:
 
 <div id = "executando">
 
-## 💻 Executando ##
+## 💻 &#xa0; Executando ##
 
 Para acessar esse conteúdo siga os passos abaixo.
 
@@ -68,7 +68,7 @@ $ code .
 
 <div id = "prazer">
 
-## 👋🏻 Prazer ##
+## 👋🏻 &#xa0; Prazer ##
 
 👨🏻‍💻 &#xa0; [Iuri Almeida][linkedin]
 
