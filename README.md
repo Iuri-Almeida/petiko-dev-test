@@ -9,12 +9,8 @@
 <p>
 
   <a href="#descricao">Descrição</a> &#xa0; | &#xa0;
-  <a href="#tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#requisitos">Requisitos</a> &#xa0; | &#xa0;
-  <a href="#pontosImportantes">Pontos Importantes</a> &#xa0; | &#xa0;
+  <a href="#linguagenseferramentas">Linguagens e ferramentas</a> &#xa0; | &#xa0;
   <a href="#executando">Executando</a> &#xa0; | &#xa0;
-  <a href="#roadmap">Roadmap</a> &#xa0; | &#xa0;
-  <a href="#referencias">Referências</a> &#xa0; | &#xa0;
   <a href="#prazer">Prazer</a>
 
 </p>
@@ -29,7 +25,7 @@ Esse é um repositório para o teste de desenvolvedor do processo seletivo da [P
 
 </div>
 
-<div id = "tecnologias">
+<div id = "linguagenseferramentas">
 
 ## 🛠 &#xa0; Linguagens e ferramentas ##
 
