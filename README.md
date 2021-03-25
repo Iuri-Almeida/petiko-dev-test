@@ -25,7 +25,7 @@
 
 ## 📌 &#xa0; Descrição ##
 
-Esse é um repositório para o teste de desenvolvedor do processo seletivo da [Petiko][petiko]. A resolução dos testes estão dentro da pasta **testes** e em suas respectivas pastas.
+Esse é um repositório para o teste de desenvolvedor do processo seletivo da [Petiko][petiko] 2021. A resolução dos testes estão dentro da pasta **testes** e em suas respectivas pastas.
 
 </div>
 
